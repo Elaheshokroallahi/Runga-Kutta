@@ -1,0 +1,15 @@
+# Plot
+
+This directory contains visualization scripts and notebooks used to analyze the numerical simulation results.
+
+The plotting utilities generate publication-quality figures that illustrate the evolution of important physical quantities throughout the simulation. These visualizations facilitate interpretation, validation, and presentation of the computational results.
+
+Typical outputs include:
+
+- Time-dependent variable plots
+- Radius evolution
+- Temperature profiles
+- Mass and evaporation dynamics
+- Comparative analysis between simulation cases
+
+The plotting scripts are independent from the numerical solver and are intended for post-processing the generated datasets.
