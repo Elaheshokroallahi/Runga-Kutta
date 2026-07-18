@@ -1,0 +1,14 @@
+# Example
+
+This directory contains example scripts and notebooks that demonstrate how to use the numerical simulation framework.
+
+The examples are intended to help users understand the workflow of the project, including parameter initialization, execution of the numerical solver, and interpretation of the generated results. These files serve as practical demonstrations and can be modified to reproduce simulations under different physical conditions.
+
+Contents of this folder may include:
+
+- Example notebooks for running simulations
+- Sample input parameters
+- Demonstration workflows
+- Reference implementations for new users
+
+These examples are designed for educational purposes and as starting points for further development.
