@@ -1,0 +1,15 @@
+# RunModel
+
+This directory contains the main implementation of the numerical simulation model.
+
+The code in this folder is responsible for initializing the physical parameters, solving the governing differential equations using the Runge-Kutta numerical method, and managing the complete simulation workflow. It represents the core computational engine of the project.
+
+Major responsibilities include:
+
+- Initialization of simulation parameters
+- Numerical integration of governing equations
+- Time evolution of physical variables
+- Data generation for post-processing
+- Preparation of outputs for visualization
+
+Most modifications to the simulation algorithm should be performed within this directory.
