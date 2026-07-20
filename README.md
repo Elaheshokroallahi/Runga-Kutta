@@ -98,7 +98,7 @@ python droplet_simulation.py
 
 ### **Elaheh Shokrollahi**
 
-🎓 M.Sc. Student in Financial Mathematics)
+🎓 M.Sc. Student in Financial Mathematics
 
 ### 🔬 Research Interests
 
